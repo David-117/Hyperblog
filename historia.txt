@@ -1,1 +1,3 @@
 Este es un archivo que describe la historia de una persona en el año 2021
+
+Actualmente estamos pasando por una pandemia a nivel mundial llamda COVID_19
