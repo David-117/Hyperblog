@@ -1,3 +1,5 @@
 # Hyperblog
 
-Ejercicio para saber usar git 
+Ejercicio para saber usar git de manera remota
+
+Bienvenido David ! 
